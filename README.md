@@ -11,11 +11,11 @@
 ## 🎬 最新视频动态 | Latest YouTube
 这里自动同步我的 YouTube 频道最新内容（每 6 小时自动更新）：
 <!-- YOUTUBE-FEED:START -->
+- [BTC跌破8 3万！马斯克“装死”不卖的背后，藏着什么惊天秘密？🤫](https://www.youtube.com/watch?v=a_D_adJ1Dd8)
 - [别再乱找U卡了！青岚姐手把手教你办Bybit Card：安全、返现、低手续费，绑定支付宝刷遍全球！](https://www.youtube.com/watch?v=UJYs3xueVlY)
 - [贝莱德给比特币发 “利息”？35 万亿稳定币泡沫 + 黄金骗局，散户别当接盘侠！](https://www.youtube.com/watch?v=KGeUAnCOI6w)
 - [贝莱德6亿美金离奇“消失”？比特币9万关口的索命局！青岚姐揭秘三大收割真相，保住你的过年钱！](https://www.youtube.com/watch?v=36UkZO4uaPg)
 - [比特币ETF猛灌14亿却不涨？扒透机构“左手倒右手”的阴谋！小心你的钱包被掏空！](https://www.youtube.com/watch?v=WbHAqk8G1Rc)
-- [伦敦证交所入局，加密货币要起飞？别被收割！扒透华尔街预测市场与越南稳定币支付真相！](https://www.youtube.com/watch?v=P3X0Tt-gU84)
 <!-- YOUTUBE-FEED:END -->
 ---
 
