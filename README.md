@@ -11,11 +11,11 @@
 ## 🎬 最新视频动态 | Latest YouTube
 这里自动同步我的 YouTube 频道最新内容（每 6 小时自动更新）：
 <!-- YOUTUBE-FEED:START -->
+- [30万美金特朗普雕像竟是骗局？揭秘2026开年三大金融阴谋！](https://www.youtube.com/watch?v=TQQFX83deAk)
 - [美政府“停摆”数据玩消失？2月首周惊现真空期，机构正在关门收割！散户快逃！](https://www.youtube.com/watch?v=QiwRznTqxFw)
 - [人类禁入！实测2026最诡异AI社交网络Moltbook：何一所说的“双向凝视”成真了？](https://www.youtube.com/shorts/nyyJyKF2dnE)
 - [特斯拉财报揭秘：84000美元是大考还是死劫？马斯克在等一个“午夜清算”！](https://www.youtube.com/shorts/Pd299SYCnDM)
 - [BTC跌破8 3万！马斯克“装死”不卖的背后，藏着什么惊天秘密？🤫](https://www.youtube.com/watch?v=a_D_adJ1Dd8)
-- [别再乱找U卡了！青岚姐手把手教你办Bybit Card：安全、返现、低手续费，绑定支付宝刷遍全球！](https://www.youtube.com/watch?v=UJYs3xueVlY)
 <!-- YOUTUBE-FEED:END -->
 ---
 
