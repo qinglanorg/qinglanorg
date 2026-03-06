@@ -11,11 +11,11 @@
 ## 🎬 最新视频动态 | Latest YouTube
 这里自动同步我的 YouTube 频道最新内容（每 6 小时自动更新）：
 <!-- YOUTUBE-FEED:START -->
+- [为什么散户永远赚不到钱？从纽交所投资OKX看透币圈的收割底层逻辑。](https://www.youtube.com/watch?v=hX79QhjBmb8)
 - [乱世必赚！越乱越赚不到钱的，都是太听话的人｜关税/战争/AI算力背后的财富真相](https://www.youtube.com/watch?v=_IEzRXss2Po)
 - [马年币圈惊魂：10亿黑幕+3 49亿爆仓！比特币到底跌到哪？青岚姐拆解三大热点避坑！](https://www.youtube.com/watch?v=Efx5K7GNV6g)
 - [2026春节必看！OKX集五福瓜分28枚BTC，人均300USDT到账攻略 手把手教你零成本抽比](https://www.youtube.com/watch?v=-Ycdu20Q5Bc)
 - [440 亿美金错发乌龙！SBF 狱中曝出惊人黑幕：谁在操纵 2026 加密市场？](https://www.youtube.com/watch?v=-6K2v8urdPU)
-- [30万美金特朗普雕像竟是骗局？揭秘2026开年三大金融阴谋！](https://www.youtube.com/watch?v=TQQFX83deAk)
 <!-- YOUTUBE-FEED:END -->
 ---
 
