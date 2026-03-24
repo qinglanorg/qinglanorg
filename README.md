@@ -11,11 +11,11 @@
 ## 🎬 最新视频动态 | Latest YouTube
 这里自动同步我的 YouTube 频道最新内容（每 6 小时自动更新）：
 <!-- YOUTUBE-FEED:START -->
+- [【青岚工具箱04】BTC、美股、恐惧指数同屏监控？教你交易员都在用的顶级复盘布局！](https://www.youtube.com/watch?v=uHrO5omKMAs)
 - [2026内地人香港开卡首选：众安银行ZA Bank全流程教学，0门槛免管理费10分钟下卡！](https://www.youtube.com/watch?v=PjkSYNixCKQ)
 - [9000万美元瞬间归零：黑客宁愿烧掉6 5亿也不套现？看懂这背后的逻辑，你才能跳出被收割的底层！](https://www.youtube.com/watch?v=bgq1w52yaTk)
 - [比特币冲破 $71,000 竟是陷阱？全网资金费率透底：巨鲸已布下 $69,000 空单！](https://www.youtube.com/watch?v=dMz5mP8_9xk)
 - [凭什么赵长鹏罚完40亿还能身价千亿？揭秘顶级富豪绝不外传的财富翻身底层逻辑](https://www.youtube.com/watch?v=KdCPNJQMQjA)
-- [72万枚比特币被锁死！大机构疯狂扫货是救市还是围猎？散户保命必看：这3个收割信号已出现！](https://www.youtube.com/shorts/vgODzr5cKxY)
 <!-- YOUTUBE-FEED:END -->
 ---
 
