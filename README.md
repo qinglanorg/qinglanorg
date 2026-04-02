@@ -11,11 +11,11 @@
 ## 🎬 最新视频动态 | Latest YouTube
 这里自动同步我的 YouTube 频道最新内容（每 6 小时自动更新）：
 <!-- YOUTUBE-FEED:START -->
+- [别再给带单老师送钱了！2026熊市：50人的群49个托，揭秘币圈最狠收割内幕](https://www.youtube.com/watch?v=OgFDKI1o11I)
 - [2026 纯血鸿蒙 NEXT 怎么科学上网？快连 VPN 实测：一键起飞，稳如老狗！](https://www.youtube.com/watch?v=XaGVhKDjDCU)
 - [BTC爆跌内幕：中东战火引发的“午夜屠杀”，普通人如何死里逃生？](https://www.youtube.com/watch?v=NrwvWoJJDmE)
 - [别再被AI名词绕晕了！3分钟听懂大模型与智能体，小学生都能看懂！](https://www.youtube.com/watch?v=Ns2iksa6WC8)
 - [【青岚工具箱04】BTC、美股、恐惧指数同屏监控？教你交易员都在用的顶级复盘布局！](https://www.youtube.com/watch?v=uHrO5omKMAs)
-- [2026内地人香港开卡首选：众安银行ZA Bank全流程教学，0门槛免管理费10分钟下卡！](https://www.youtube.com/watch?v=PjkSYNixCKQ)
 <!-- YOUTUBE-FEED:END -->
 ---
 
