@@ -11,11 +11,11 @@
 ## 🎬 最新视频动态 | Latest YouTube
 这里自动同步我的 YouTube 频道最新内容（每 6 小时自动更新）：
 <!-- YOUTUBE-FEED:START -->
+- [揭秘交易所跟单骗局：胜率100%？7天翻倍？看懂这两张图保住你的血汗钱！](https://www.youtube.com/watch?v=YOQijEkYjZ8)
 - [真正能带你赚钱的老师长什么样？看完这4条标准，辨别99%的合约杀猪盘！](https://www.youtube.com/shorts/qmTSe2jfrec)
 - [比特币跌破6万，想回本？我冒死揭开“合约大神”的10个陷阱，看完能省几十万！](https://www.youtube.com/shorts/vd-otrDa6GE)
 - [别再给带单老师送钱了！2026熊市：50人的群49个托，揭秘币圈最狠收割内幕](https://www.youtube.com/shorts/ZKSzjS2Sqh0)
 - [别再给带单老师送钱了！2026熊市：50人的群49个托，揭秘币圈最狠收割内幕](https://www.youtube.com/watch?v=OgFDKI1o11I)
-- [2026 纯血鸿蒙 NEXT 怎么科学上网？快连 VPN 实测：一键起飞，稳如老狗！](https://www.youtube.com/watch?v=XaGVhKDjDCU)
 <!-- YOUTUBE-FEED:END -->
 ---
 
