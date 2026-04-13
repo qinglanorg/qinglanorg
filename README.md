@@ -11,11 +11,11 @@
 ## 🎬 最新视频动态 | Latest YouTube
 这里自动同步我的 YouTube 频道最新内容（每 6 小时自动更新）：
 <!-- YOUTUBE-FEED:START -->
+- [为什么 99% 的币圈散户都在送钱？前券商量化师：别再用“赌徒心态”对抗 AI 逻辑了！](https://www.youtube.com/watch?v=OlNiMBcsY0g)
 - [醒醒吧！为什么交易所跟单是大神收割机的陷阱？带单达人赚返佣，你却爆仓离场！](https://www.youtube.com/shorts/b2AmtB0LlSE)
 - [揭秘交易所跟单骗局：胜率100%？7天翻倍？看懂这两张图保住你的血汗钱！](https://www.youtube.com/shorts/2Yq1kF5S1oY)
 - [揭秘交易所跟单骗局：胜率100%？7天翻倍？看懂这两张图保住你的血汗钱！](https://www.youtube.com/watch?v=YOQijEkYjZ8)
 - [真正能带你赚钱的老师长什么样？看完这4条标准，辨别99%的合约杀猪盘！](https://www.youtube.com/shorts/qmTSe2jfrec)
-- [比特币跌破6万，想回本？我冒死揭开“合约大神”的10个陷阱，看完能省几十万！](https://www.youtube.com/shorts/vd-otrDa6GE)
 <!-- YOUTUBE-FEED:END -->
 ---
 
