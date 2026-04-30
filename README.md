@@ -11,11 +11,11 @@
 ## 🎬 最新视频动态 | Latest YouTube
 这里自动同步我的 YouTube 频道最新内容（每 6 小时自动更新）：
 <!-- YOUTUBE-FEED:START -->
-- [BTC 跌破 7 7 万关口！巨鲸解套后，后市还能站稳反弹吗？](https://www.youtube.com/watch?v=NMCSs6eRmL8)
 - [胜率近 87%！教你攒下 2029 牛市的零成本筹码](https://www.youtube.com/shorts/OzAEJfuc5x8)
 - [散户被收割的根源，职业交易员只靠系统不靠本金](https://www.youtube.com/shorts/HzHW7nNvoFk)
 - [2026-2029 加密穿越计划，零成本现货布局全拆解](https://www.youtube.com/shorts/C9VvvssOiSM)
 - [2026熊市生存指南：我如何利用 TPV 系统，零成本攒够下个牛市的筹码？](https://www.youtube.com/watch?v=FNWag1Wq0AE)
+- [为什么 99% 的币圈散户都在送钱？前券商量化师：别再用“赌徒心态”对抗 AI 逻辑了！](https://www.youtube.com/watch?v=OlNiMBcsY0g)
 <!-- YOUTUBE-FEED:END -->
 ---
 
