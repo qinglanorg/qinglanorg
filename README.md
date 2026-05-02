@@ -11,11 +11,11 @@
 ## 🎬 最新视频动态 | Latest YouTube
 这里自动同步我的 YouTube 频道最新内容（每 6 小时自动更新）：
 <!-- YOUTUBE-FEED:START -->
+- [揭秘AI交易骗局：8888元的智能EA如何吃光你的20万？扒光“自动赚钱”的底裤！](https://www.youtube.com/watch?v=S5Axh_UFBlI)
 - [胜率不足40%也能赚到2亿？拆解交易大佬们秘而不宣的财富公式！](https://www.youtube.com/watch?v=VY6Ff63qbqg)
 - [胜率近 87%！教你攒下 2029 牛市的零成本筹码](https://www.youtube.com/shorts/OzAEJfuc5x8)
 - [散户被收割的根源，职业交易员只靠系统不靠本金](https://www.youtube.com/shorts/HzHW7nNvoFk)
 - [2026-2029 加密穿越计划，零成本现货布局全拆解](https://www.youtube.com/shorts/C9VvvssOiSM)
-- [2026熊市生存指南：我如何利用 TPV 系统，零成本攒够下个牛市的筹码？](https://www.youtube.com/watch?v=FNWag1Wq0AE)
 <!-- YOUTUBE-FEED:END -->
 ---
 
