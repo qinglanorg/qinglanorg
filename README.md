@@ -11,11 +11,11 @@
 ## 🎬 最新视频动态 | Latest YouTube
 这里自动同步我的 YouTube 频道最新内容（每 6 小时自动更新）：
 <!-- YOUTUBE-FEED:START -->
+- [为什么你越勤奋越亏钱？90%散户都在踩的日内交易陷阱，教你用 TPV 策略打破死循环！](https://www.youtube.com/watch?v=LFMynJEUYu0)
 - [BTC交易8年，我撕掉了3本技术笔记：只靠一根均线，我从亏损百万到稳步盈利！](https://www.youtube.com/watch?v=e4lX1_9HF50)
 - [别再招人了！2026年，一个人如何靠AI干掉一支50人的团队？](https://www.youtube.com/watch?v=ZmxUEbKVMZI)
 - [别再盲目开仓了！青岚姐八年实战总结 TPV 交易系统：一根线看透趋势，黄金BTC 通用！](https://www.youtube.com/watch?v=KdwM1_76kV8)
 - [揭秘AI交易骗局：8888元的智能EA如何吃光你的20万？扒光“自动赚钱”的底裤！](https://www.youtube.com/watch?v=S5Axh_UFBlI)
-- [胜率不足40%也能赚到2亿？拆解交易大佬们秘而不宣的财富公式！](https://www.youtube.com/watch?v=VY6Ff63qbqg)
 <!-- YOUTUBE-FEED:END -->
 ---
 
