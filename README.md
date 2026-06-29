@@ -11,11 +11,11 @@
 ## 🎬 最新视频动态 | Latest YouTube
 这里自动同步我的 YouTube 频道最新内容（每 6 小时自动更新）：
 <!-- YOUTUBE-FEED:START -->
+- [BTC暴跌7000点！全网多空双爆，我用TPV系统日内7战6胜扒光庄家套路！](https://www.youtube.com/watch?v=_-XhVgsuaN0)
 - [别把交易当赌博！顶级交易员的“第一性原理”：如何将风险买卖变成高胜率生意？](https://www.youtube.com/watch?v=VYliVGNAaB4)
 - [我花了8年、爆仓4次才悟出的交易真相：别再迷信指标了！16字心法+TPV系统教你如何稳定复利](https://www.youtube.com/watch?v=YE9_p5jYWFI)
 - [为什么你越勤奋越亏钱？90%散户都在踩的日内交易陷阱，教你用 TPV 策略打破死循环！](https://www.youtube.com/watch?v=LFMynJEUYu0)
 - [BTC交易8年，我撕掉了3本技术笔记：只靠一根均线，我从亏损百万到稳步盈利！](https://www.youtube.com/watch?v=e4lX1_9HF50)
-- [别再招人了！2026年，一个人如何靠AI干掉一支50人的团队？](https://www.youtube.com/watch?v=ZmxUEbKVMZI)
 <!-- YOUTUBE-FEED:END -->
 ---
 
