@@ -11,11 +11,11 @@
 ## 🎬 最新视频动态 | Latest YouTube
 这里自动同步我的 YouTube 频道最新内容（每 6 小时自动更新）：
 <!-- YOUTUBE-FEED:START -->
+- [BTC 多单亏损 42%，账户依旧盈利 43.93%｜跨品种对冲实战复盘](https://www.youtube.com/watch?v=zVIuuK7Man4)
 - [看对行情却依旧亏损？90% 交易者栽在这一致命误区｜青岚 TPV 三点验证系统](https://www.youtube.com/watch?v=4gbqr5JmWb0)
 - [BTC暴跌7000点！全网多空双爆，我用TPV系统日内7战6胜扒光庄家套路！](https://www.youtube.com/watch?v=_-XhVgsuaN0)
 - [别把交易当赌博！顶级交易员的“第一性原理”：如何将风险买卖变成高胜率生意？](https://www.youtube.com/watch?v=VYliVGNAaB4)
 - [我花了8年、爆仓4次才悟出的交易真相：别再迷信指标了！16字心法+TPV系统教你如何稳定复利](https://www.youtube.com/watch?v=YE9_p5jYWFI)
-- [为什么你越勤奋越亏钱？90%散户都在踩的日内交易陷阱，教你用 TPV 策略打破死循环！](https://www.youtube.com/watch?v=LFMynJEUYu0)
 <!-- YOUTUBE-FEED:END -->
 ---
 
